@@ -22,6 +22,10 @@ var Style = StyleSheet.create({
         borderColor: '#91AA9D'
     },
 
+    inputRow: {
+        flex: 1,
+        flexDirection: 'row'
+    },
     inputButtonText: {
         fontSize: 22,
         fontWeight: 'bold',
